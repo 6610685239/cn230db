@@ -36,12 +36,12 @@
 #  การใช้งาน
 
 1.Run
---
+```
  pip install requirements.txt
---
+```
 
 2.Run
---
+```
  python country_data.py
---
+```
 
